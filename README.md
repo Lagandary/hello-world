@@ -1,2 +1,4 @@
-# hello-world
-Tutorial for GitHub.
+HELLO WORLD
+===========
+
+I want to learn GitHub to pair program.
